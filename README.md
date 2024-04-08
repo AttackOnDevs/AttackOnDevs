@@ -1,6 +1,7 @@
-Test
-
-<!---
-AttackOnDevs/AttackOnDevs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+$billet5 = 52 * 5; //260 euro
+$billet20 = 6 * 20; //120 euro
+$billet10 = ($billet5 + $billet20); //380
+echo $billet10; //pour voir si c'est bon
+$billet10r = $somme - $billet10;
+echo "<br>";
+echo $billet10r
